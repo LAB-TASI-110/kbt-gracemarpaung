@@ -130,7 +130,7 @@ int main() {
                 break;
             }
             case 3: {
-                printf("\nTerima kasih telah menggunakan Sistem Ticketing Koperasi Bintang Tapanuli.\n");
+                printf("\nTerima kasih telah menggunakan Sistem perasi Bintang Tapanuli.\n");
                 break;
             }
         }
